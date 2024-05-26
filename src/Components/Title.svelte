@@ -1,14 +1,19 @@
 <section id="intro">
-  <h1 id="intro-hed">Title Of The Article</h1>
-  <h1 class="intro-sub">Subtitle of the article.</h1>
+  <h1 id="intro-hed">Classifying MNIST Dataset With K-Nearest Neighbors</h1>
+  <h1 class="intro-sub">
+    Introducing K-Nearest Neighbors and how it can be used for handwritten digit
+    classification using the MNIST dataset.
+  </h1>
   <h3 id="intro__date">
-    <a href="https://twitter.com/" target="_blank">Author Name</a>, Month Year
+    <a href="https://github.com/joycellu/mnist-knn-explorable" target="_blank"
+      >Monica Dai, Joyce Lu, Henry Xu</a
+    >, May 2024
   </h3>
 </section>
 
 <style>
   #intro {
-    max-width: 600px;
+    max-width: 1000px;
     margin: 1rem auto;
     text-align: center;
     padding-top: 1rem;
