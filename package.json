@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "rollup -c",
+    "build": "svelte-kit build",
     "dev": "rollup -c -w",
     "start": "sirv public -D -m 1"
   },
